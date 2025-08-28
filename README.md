@@ -1,5 +1,25 @@
-# Vue 3 + Vite
+# My Portfolio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a personal portfolio website built using [Vue 3](https://vuejs.org/) and [Vite](https://vitejs.dev/). It showcases my projects, skills, and background as a developer.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Features
+
+- ⚡ Built with Vite for fast development
+- 🧩 Component-based architecture using Vue 3
+- 📱 Responsive design
+- 🎨 Styled with Tailwind CSS (optional if you're using it)
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Vue 3, Vite
+- **Styling:** Tailwind CSS (if used)
+- **Deployment:** GitHub Pages / Netlify / Vercel (choose one)
+
+## 📦 Project Setup
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/your-username/my-portfolio.git
+cd my-portfolio
+npm install
